@@ -3,7 +3,7 @@
 A modern, responsive portfolio website built with React.js, featuring smooth animations, glassmorphism design, and optimized performance.
 
 ## 🚀 Live Demo
-[View Live Portfolio](https://your-portfolio-url.com)
+[View Live Portfolio](https://portfolio-jeel.vercel.app/)
 
 ## 📋 Table of Contents
 - [Features](#features)
